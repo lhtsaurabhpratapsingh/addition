@@ -1,0 +1,11 @@
+[package]
+name = "rust_sample"
+version = "0.1.0"
+authors = ["sps"]
+edition = "2021"
+description = "adding two values"
+license = "MIT"
+repository = "https://github.com/saurabhpl/addition"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
